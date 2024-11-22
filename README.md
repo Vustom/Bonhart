@@ -1,4 +1,4 @@
-# ⚒ | Description
+# ⚙ | Description
 
 Mods required for playing on the `Vinland, AU` Valheim server.
 
